@@ -16,3 +16,15 @@
 [![](https://visitcount.itsvg.in/api?id=egoscoder&icon=9&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="center">Done</h3>
+<p align="center">
+  <a href="https://github.com/yasaroktn/42-Cursus-Libft"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/libftm.png"></a>
+  <a href="https://github.com/yasaroktn/42-Cursus-GetNextLine"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/get_next_linem.png"></a>
+  <a href="https://github.com/yasaroktn/42-Cursus-Printf"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/ft_printfe.png"></a>
+  <a href="https://baigal.medium.com/born2beroot-e6e26dfb50ac"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/born2berootm.png"></a>
+  <a href="https://github.com/yasaroktn/42-Cursus-MiniTalk"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/minitalkm.png"></a>
+  <a href="https://github.com/yasaroktn/42-Cursus-SoLong"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/so_longm.png"></a>
+  <a href="https://github.com/yasaroktn/Push_Swap"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/push_swapm.png"></a>
+  <a href="https://github.com/yasaroktn/Philosophers"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/philosopherse.png"></a>
+  <a href="https://github.com/yasaroktn/42--Cursus-Minishell"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/minishelle.png"></a>
+</p>
