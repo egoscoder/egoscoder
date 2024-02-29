@@ -18,6 +18,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h3 align="center">Done</h3>
 <p align="center">
-  <a href="https://github.com/yasaroktn/42-Cursus-Libft"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/libftm.png"></a>
+  <a href="https://resimlink.com/d6oA3pVvR" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/d6oA3pVvR.png"></a>
   <a href="https://github.com/egoscoder/egoscoder"><img src="https://r.resimlink.com/rgQbLSft7V.png"></a>
 </p>
