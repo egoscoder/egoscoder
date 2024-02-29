@@ -1,6 +1,7 @@
 <p align="center">
 <a href="https://github.com/egoscoder/egoscoder"><img src="https://r.resimlink.com/AZdCzqnG8.jpg"></a>
 </p>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/egemenkaraku%C5%9F/) 
 
