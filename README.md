@@ -19,6 +19,9 @@
 [![](https://visitcount.itsvg.in/api?id=egoscoder&icon=9&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+Journey from basic to advanced
+
 <h3 align="center">Done</h3>
 <p align="center">
   <a href="https://github.com/egoscoder/egoscoder"><img src="https://r.resimlink.com/rgQbLSft7V.png"></a>
